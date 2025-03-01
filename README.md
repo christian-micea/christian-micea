@@ -1,8 +1,10 @@
-- 👋 Hi, I’m confused
-- 👀 I’m interested in not being confused
-- 🌱 I’m currently learning not being confused
-- 💞️ I’m looking to collaborate on not being confused
-- 📫 How to reach me I don't know, I'm confused
+- 👋 Hi, I’m Christian Micea
+- 👀 I’m interested in both hardware and software and have a soft spot for robotics
+- 🌱 I’m currently learning computer engineering
+- 💞️ I’m looking to collaborate with whoever might offer me opportunities to learn and advance in fields I am interested in
+- 📫 How to reach me christian.micea@gmail.com
+
+Student at Politehnica University of Timișoara, year 1
 
 <!---
 christian-micea/christian-micea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
